@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emily G. Liquin"
 title_separator          : "-"
 name                     : &name "Emily G. Liquin"
-description              : &description "Postdoctoral researcher studying exploration and learning"
+description              : &description "Postdoctoral researcher studying inquiry and learning"
 url                      : https://emilyliquin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emilyliquin.github.io"
@@ -87,7 +87,7 @@ author:
   employer         : "New York University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IdymDGQAAAAJ&hl=en&oi=ao"
-  email            : "mailto:eliquin@princeton.edu"
+  email            : "mailto:emily.liquin@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emilyliquin"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
