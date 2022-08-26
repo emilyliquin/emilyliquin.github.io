@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Emily G. Liquin"
   avatar           : "ELCircle.png"
-  bio              : "Studying exploration and learning across development"
+  bio              : "Studying inquiry and learning across development"
   location         : 
   employer         : "New York University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IdymDGQAAAAJ&hl=en&oi=ao"
   email            : "mailto:emily.liquin@nyu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  osf              :  "osf.io/yz4np"
   uri              : 
   bitbucket        :
   codepen          :
