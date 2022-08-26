@@ -148,10 +148,10 @@
 .ai-orcid-square:before {
   content: "\e841";
 }
-.ai-osf:before {
+.ai-researchgate:before {
   content: "\e842";
 }
-.ai-osf-square:before {
+.ai-researchgate-square:before {
   content: "\e843";
 }
 .ai-overleaf:before {
@@ -184,10 +184,10 @@
 .ai-pubmed-square:before {
   content: "\e853";
 }
-.ai-osf:before {
+.ai-researchgate:before {
   content: "\e854";
 }
-.ai-osf-square:before {
+.ai-researchgate-square:before {
   content: "\e855";
 }
 .ai-scirate:before {
