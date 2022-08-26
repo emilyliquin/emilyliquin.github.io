@@ -13,25 +13,26 @@ author_profile: true
 
 # Refereed Journal Articles
 
-Liquin, E. G., Metz, S. E., & Lombrozo, T. (2020). Science demands explanation, religion tolerates mystery. Cognition, 204, 104398. doi: 10.1016/j.cognition.2020.104398. [[pdf]](https://emilyliquin.github.io/files/LiquinMetzLombrozo-2020.pdf) <br>
+Hart, Y., Kosoy, E., Liquin, E. G., Leonard, J. A., Mackey, A. P., & Gopnik, A. (2022). The development of creative search strategies. *Cognition, 225*, 105102. [[pdf]](https://doi.org/10.1016/j.cognition.2022.105102) / [[preprint]](https://psyarxiv.com/dhwmn/)<br>
 
-Liquin, E. G., & Lombrozo, T. (2020). Explanation-seeking curiosity in childhood. Current Opinion in Behavioral Sciences, 35, 14-20. doi: doi.org/10.1016/j.cobeha.2020.05.012. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-ESCDev-2020.pdf) <br>
+Liquin, E. G. & Lombrozo, T. (2022). Motivated to learn: An account of explanatory satisfaction. *Cognitive Psychology, 132*, 101453. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-2022.pdf)<br>
 
-Liquin, E. G., & Lombrozo, T. (2020). A functional approach to explanation-seeking curiosity. Cognitive Psychology, 119, 101276. doi: doi.org/10.1016/j.cogpsych.2020.101276. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-ESC-2020.pdf) <br>
+Liquin, E. G. & Gopnik, A. (2022). Children are more exploratory and learn more than adults in an approach-avoid task. *Cognition, 218*, 104940. [[pdf]](https://emilyliquin.github.io/files/LiquinGopnik2022.pdf) / [[preprint]](https://psyarxiv.com/6watc)<br>
 
-Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evaluation of teleological explanations. Cognitive Psychology, 107, 22-43. doi: 10.1016/j.cogpsych.2018.09.001. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-SFFit-2018.pdf) <br>
+Liquin, E. G., Metz, S. E., & Lombrozo, T. (2020). Science demands explanation, religion tolerates mystery. *Cognition, 204*, 104398. [[pdf]](https://emilyliquin.github.io/files/LiquinMetzLombrozo-2020.pdf) <br>
 
-<br>
+Liquin, E. G., & Lombrozo, T. (2020). Explanation-seeking curiosity in childhood. *Current Opinion in Behavioral Sciences, 35*, 14-20. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-ESCDev-2020.pdf) <br>
 
-# Papers Under Review
+Liquin, E. G., & Lombrozo, T. (2020). A functional approach to explanation-seeking curiosity. *Cognitive Psychology, 119*, 101276. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-ESC-2020.pdf) <br>
 
-Liquin, E. G. & Gopnik, A. (in revision). Children are more exploratory and learn more than adults in an approach-avoid task. [[preprint]](https://psyarxiv.com/6watc) <br>
-
-Liquin, E. G. & Lombrozo, T. (under review). Motivated to learn: An account of explanatory satisfaction. <br>
+Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evaluation of teleological explanations. *Cognitive Psychology, 107*, 22-43. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-SFFit-2018.pdf) <br>
 
 <br>
 
 # Refereed Conference Proceedings
+
+Liquin, E. G. & Gureckis, T. M. (2022). Where questions come from: Reusing old questions in new situations. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.) *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/learning_questions_CogSci_2022_revision)
+<br>
 
 Liquin, E. G., Callaway, F., & Lombrozo, T. (2021). Developmental change in what elicits curiosity. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society.* (pp. 1360-1366). Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinCallawayLombrozo-2021.pdf) <br>
 
