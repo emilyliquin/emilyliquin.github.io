@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a cognitive scientist studying exploration and learning in humans across the lifespan. I am interested in (1) how and why people seek information and (2) how differences in exploration translate to differences in learning. I answer these questions using experimental, developmental, and computational methods. My aim is to leverage the findings from my research to improve the efficacy of exploration in real-world settings.
+Hello! I'm a cognitive scientist studying inquiry and learning in humans across the lifespan. I am interested in (1) how, when, and why people seek information and (2) how differences in inquiry translate to differences in learning. I answer these questions using experimental, developmental, and computational methods. My aim is to leverage the findings from my research to improve the efficacy of inquiry in real-world settings.
 
 I am currently a Postdoctoral Researcher in the Department of Psychology at New York University, funded by the [NSF SBE Postdoctoral Research Fellowship](https://nsf.gov/awardsearch/showAward?AWD_ID=2204021). I work with [Dr. Todd Gureckis](http://gureckislab.org/) and [Dr. Marjorie Rhodes](http://kidconcepts.org/).
 
