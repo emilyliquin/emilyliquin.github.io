@@ -13,6 +13,10 @@ author_profile: true
 
 # Refereed Journal Articles
 
+Lombrozo, T. & Liquin, E. G. (2023). Explanation is effective because it is selective. *Current Directions in Psychological Science.* [[pdf]](https://emilyliquin.github.io/files/LombrozoLiquin-explanation-2023.pdf)<br>
+
+Lewry, C., Gorucu, S., Liquin, E. G., & Lombrozo, T. (2023). Minimally counterintuitive stimuli trigger greater curiosity than merely improbable stimuli. *Cognition, 230*, 105286. [[pdf]](https://emilyliquin.github.io/files/Lewry-2023.pdf) / [[preprint]](https://psyarxiv.com/3b65z)<br>
+
 Hart, Y., Kosoy, E., Liquin, E. G., Leonard, J. A., Mackey, A. P., & Gopnik, A. (2022). The development of creative search strategies. *Cognition, 225*, 105102. [[pdf]](https://doi.org/10.1016/j.cognition.2022.105102) / [[preprint]](https://psyarxiv.com/dhwmn/)<br>
 
 Liquin, E. G. & Lombrozo, T. (2022). Motivated to learn: An account of explanatory satisfaction. *Cognitive Psychology, 132*, 101453. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-2022.pdf)<br>
@@ -30,6 +34,9 @@ Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evalua
 <br>
 
 # Refereed Conference Proceedings
+
+Liquin, E. G. & Gureckis, T. M. (forthcoming). Teaching and learning through pedagogical environment design. In *Proceedings of the 45th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. 
+<br>
 
 Liquin, E. G. & Gureckis, T. M. (2022). Where questions come from: Reusing old questions in new situations. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.) *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/learning_questions_CogSci_2022_revision)
 <br>
