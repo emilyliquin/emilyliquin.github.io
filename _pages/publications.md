@@ -13,7 +13,7 @@ author_profile: true
 
 # Refereed Journal Articles
 
-Lombrozo, T. & Liquin, E. G. (2023). Explanation is effective because it is selective. *Current Directions in Psychological Science.* [[pdf]](https://emilyliquin.github.io/files/LombrozoLiquin-explanation-2023.pdf)<br>
+Lombrozo, T. & Liquin, E. G. (2023). Explanation is effective because it is selective. *Current Directions in Psychological Science.* [[pdf]](https://emilyliquin.github.io/files/LombrozoLiquin_explanation_2023.pdf)<br>
 
 Lewry, C., Gorucu, S., Liquin, E. G., & Lombrozo, T. (2023). Minimally counterintuitive stimuli trigger greater curiosity than merely improbable stimuli. *Cognition, 230*, 105286. [[pdf]](https://emilyliquin.github.io/files/Lewry-2023.pdf) / [[preprint]](https://psyarxiv.com/3b65z)<br>
 
@@ -38,7 +38,7 @@ Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evalua
 Liquin, E. G. & Gureckis, T. M. (forthcoming). Teaching and learning through pedagogical environment design. In *Proceedings of the 45th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. 
 <br>
 
-Liquin, E. G. & Gureckis, T. M. (2022). Where questions come from: Reusing old questions in new situations. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.) *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/learning_questions_CogSci_2022_revision)
+Liquin, E. G. & Gureckis, T. M. (2022). Where questions come from: Reusing old questions in new situations. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.) *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/learning_questions_CogSci_2022_revision.pdf)
 <br>
 
 Liquin, E. G., Callaway, F., & Lombrozo, T. (2021). Developmental change in what elicits curiosity. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society.* (pp. 1360-1366). Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinCallawayLombrozo-2021.pdf) <br>
@@ -49,6 +49,6 @@ Liquin, E. G. & Lombrozo, T. (2019). Inquiry, theory-formation, and the phenomen
 
 Liquin, E. G. & Lombrozo, T. (2018). Determinants and consequences of the need for explanation. In T. T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp. 696-701). Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-NFE-2018.pdf) <br>
 
-Liquin, E. G., Metz, S. E., & Lombrozo, T. (2018). Explanation and its limits: Mystery and the need for explanation in science and religion. In T. T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp. 2065-2070).  Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinMetzLombrozo-NFE.Mys-2018.pdf) <br>
+Liquin, E. G., Metz, S. E., & Lombrozo, T. (2018). Explanation and its limits: Mystery and the need for explanation in science and religion. In T. T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp. 2065-2070).  Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinMetzLombrozo-NFE:Mys-2018.pdf) <br>
 
 Liquin, E. G. & Lombrozo, T. (2017). Explain, explore, exploit: Effects of explanation on information search. In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), *Proceedings of the 39th Annual Conference of the Cognitive Science Society* (pp. 2598-2603). Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinLombrozo-EEE-2017.pdf) <br>
