@@ -35,7 +35,7 @@ Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evalua
 
 # Refereed Conference Proceedings
 
-Liquin, E. G. & Gureckis, T. M. (forthcoming). Teaching and learning through pedagogical environment design. In *Proceedings of the 45th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. 
+Liquin, E. G., Luzuriaga, N., & Gureckis, T. M. (forthcoming). Teaching and learning through pedagogical environment design. In *Proceedings of the 45th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. 
 <br>
 
 Liquin, E. G. & Gureckis, T. M. (2022). Where questions come from: Reusing old questions in new situations. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.) *Proceedings of the 44th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/learning_questions_CogSci_2022_revision.pdf)
