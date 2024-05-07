@@ -13,6 +13,8 @@ author_profile: true
 
 # Refereed Journal Articles
 
+Metz, S. E., Liquin, E. G., & Lombrozo, T. (2023). Distinct profiles for belief about religion versus science. *Cognitive Science, 47*(11), e13370. [[pdf]](https://emilyliquin.github.io/files/MetzLiquinLombrozo-2023.pdf)
+
 Lombrozo, T. & Liquin, E. G. (2023). Explanation is effective because it is selective. *Current Directions in Psychological Science.* [[pdf]](https://emilyliquin.github.io/files/LombrozoLiquin_explanation_2023.pdf)<br>
 
 Lewry, C., Gorucu, S., Liquin, E. G., & Lombrozo, T. (2023). Minimally counterintuitive stimuli trigger greater curiosity than merely improbable stimuli. *Cognition, 230*, 105286. [[pdf]](https://emilyliquin.github.io/files/Lewry-2023.pdf) / [[preprint]](https://psyarxiv.com/3b65z)<br>
