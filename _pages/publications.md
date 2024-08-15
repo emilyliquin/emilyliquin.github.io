@@ -10,8 +10,13 @@ author_profile: true
 
 {% include base_path %}
 
+# Preprints & Under Review
+
+Liquin, E. G., Rhodes, M. & Gureckis, T. M. (under review). Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions. [[preprint]](https://osf.io/preprints/psyarxiv/4gtrz)
 
 # Refereed Journal Articles
+
+Liquin, E. G. & Lombrozo, T. (2024). Breaking down (and moving beyond) novelty as a trigger of curiosity. Commentary on Ivancovsky, Baror & Bar. *Behavioral and Brain Sciences, 47*, e106. [[paper]](https://doi.org/10.1017/S0140525X23003333)
 
 Metz, S. E., Liquin, E. G., & Lombrozo, T. (2023). Distinct profiles for belief about religion versus science. *Cognitive Science, 47*(11), e13370. [[pdf]](https://emilyliquin.github.io/files/MetzLiquinLombrozo-2023.pdf)
 
@@ -36,6 +41,9 @@ Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evalua
 <br>
 
 # Refereed Conference Proceedings
+
+Liquin, E. G., Rhodes, M, & Gureckis, T. M. (2024). Reuse and remixing in question asking across development. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.) *Proceedings of the 46th Annual Conference of the Cognitive Science Society* (pp. 1137-1144). Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinRhodesGureckis_CogSci2024.pdf)
+<br>
 
 Liquin, E. G., Luzuriaga, N., & Gureckis, T. M. (2023). Teaching and learning through pedagogical environment design. In M. Goldwater, F. Anggoro, B. Hayes, & D. Ong (Eds.) *Proceedings of the 45th Annual Conference of the Cognitive Science Society.* Cognitive Science Society. [[pdf]](https://emilyliquin.github.io/files/LiquinLuzuriagaGureckis_CogSci2023.pdf)
 <br>
